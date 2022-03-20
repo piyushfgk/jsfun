@@ -1,0 +1,28 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    height: 100vh;
+    letter-spacing: 2px;
+}
+
+h1{
+    font-size: 2rem;
+}
+
+h1>span{
+    font-size: 3rem;
+    font-style: italic;
+}
+
+code{
+    font-size: 1rem;
+}
+
+input{
+    width: 3rem;
+    font-size: 2rem;
+    padding: .5rem;
+}
